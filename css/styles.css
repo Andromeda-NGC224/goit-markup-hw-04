@@ -503,6 +503,7 @@ body {
 .footer-container-social-list-item:hover .worker-name-list-item-icon,
 .footer-container-social-list-item:focus .worker-name-list-item-icon {
     background-color: #31d0aa;
+    
 }
 
 /* Other */
